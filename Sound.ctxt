@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Sound
+comment1.params=player
+comment1.target=void\ playNote(Player)
+comment2.params=note\ velocity\ duration
+comment2.target=void\ playSound(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ stopAllNotes()
+comment4.params=
+comment4.target=void\ gameOverJingle()
+comment5.params=
+comment5.target=void\ playPowerUpSound()
+comment6.params=
+comment6.target=void\ resetSound()
+comment7.params=millis
+comment7.target=void\ sleep(int)
+numComments=8

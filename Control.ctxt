@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Control
+comment1.params=x\ y\ velocityX\ velocityY\ width\ height
+comment1.target=Control(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=width\ height
+comment2.target=void\ setBounds(int,\ int)
+comment3.params=velocityX\ velocityY
+comment3.target=void\ setVelocity(int,\ double)
+comment4.params=
+comment4.target=void\ move()
+comment5.params=
+comment5.target=void\ clip()
+comment6.params=control
+comment6.target=Intersection\ intersects(Control)
+comment7.params=g
+comment7.target=void\ draw(java.awt.Graphics)
+comment8.params=
+comment8.target=java.awt.Rectangle\ getBounds()
+numComments=9
